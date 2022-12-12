@@ -8,5 +8,8 @@
 ## 通过设置物理网格材质(MeshPhysicalMaterial)中的roughness和metalness属性实现与原本模型的材质相似的金属质感
 ![1670834342667](https://user-images.githubusercontent.com/101321825/207000760-2fa1b235-0b09-4191-8f65-b1f8e883031b.png)<br>
 ## 改变前脸示例
+![1 (1)](https://user-images.githubusercontent.com/101321825/207002575-9097f58c-4907-42e5-a6e1-c1c24bad3e1c.gif)<br>
 ## 改变侧面示例
+![2](https://user-images.githubusercontent.com/101321825/207002807-73107ad2-b626-4503-b420-1d630c34a3a4.gif)<br>
 ## 改变尾翼示例
+![3](https://user-images.githubusercontent.com/101321825/207002979-60adc88b-7c58-4dec-a8d8-6939e5142b38.gif)
