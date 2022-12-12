@@ -6,6 +6,7 @@
 ## 根据解析数据 建立页面元素实现对模型进行颜色控制
 ![1670760689055](https://user-images.githubusercontent.com/101321825/206902791-bb9d347c-43e2-4dbe-aafd-5fe5a63b4280.png)<br>
 ## 通过设置物理网格材质(MeshPhysicalMaterial)中的roughness和metalness属性实现与原本模型的材质相似的金属质感
+![1670834342667](https://user-images.githubusercontent.com/101321825/207000760-2fa1b235-0b09-4191-8f65-b1f8e883031b.png)<br>
 ## 改变前脸示例
 ## 改变侧面示例
 ## 改变尾翼示例
